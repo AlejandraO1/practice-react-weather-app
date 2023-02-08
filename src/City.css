@@ -1,0 +1,50 @@
+h2,
+ul {
+  text-align: center;
+}
+
+h2 {
+  padding-top: 5px;
+  font-size: 30px;
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #bc1e51;
+  transition: all 200ms ease-in-out;
+}
+
+a:hover {
+  color: inherit;
+}
+
+.current-city-weather {
+  padding: 5px;
+  margin: 5px;
+}
+
+.current-temp {
+  font-size: 25px;
+}
+
+.col-6 {
+  text-align: center;
+  padding-bottom: 5px;
+  font-size: 15px;
+}
+
+#description {
+  text-transform: capitalize;
+}
+
+.active {
+  color: #490b3e;
+  cursor: default;
+}
