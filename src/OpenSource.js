@@ -6,7 +6,7 @@ export default function Search() {
   return (
     <small>
       <a
-        href="https://github.com/AlejandraO1/vanilla-weather-app"
+        href="https://github.com/AlejandraO1/practice-react-weather-app"
         target="_blank"
         className="git-link"
         rel="noreferrer"
